@@ -32,6 +32,9 @@ button:hover {
     background-color: #555;
 }
 
+.pDeFooter {
+    text-align: center;
+}
 main {
     padding: 2rem;
     display: flex;
